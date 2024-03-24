@@ -2,22 +2,22 @@
   "copyright": "",
   "theme": "light",
   "fundingText": "",
-  "author": "Author's name",
+  "author": "YH",
   "name": "尋音",
-  "banner": "/banner.webp",
+  "banner": "/yh-2-.png",
   "pageSize": 15,
   "fundingUrl": "",
   "owner": "",
   "favicon": "/favicon.svg",
   "explicit": false,
-  "cover": "/cover.jpg",
-  "language": "en",
+  "cover": "/ddfs-5-.png",
+  "language": "zh",
   "link": "https://xunyin.netlify.app",
-  "email": "your.email@gmail.com",
+  "email": "yhmedia@proton.me",
   "description": "The Truth Will Set You Free",
   "category": [
-    "Technology",
-    "Business"
+    "Religion &amp; Spirituality",
+    "Music"
   ],
   "feedSize": ""
 }
